@@ -15,6 +15,8 @@ def main():
         print("✨ Your fortune: Balance is key. Enjoy the calm. ✨")
     elif mood == "stressed":
         print("✨ Your fortune: Take a deep breath. You're stronger than you think. ✨")
+    elif mood == "depression":
+        print("✨ Your fortune: Take a deep breath. You're extremely stronger than you think. ✨")
     else:
         print("Sorry, I don't have a fortune for that mood... yet!")
 
